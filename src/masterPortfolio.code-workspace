@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../masterPortfolio"
+	},
+	{
+		"path": "../../leerob.io"
+	},
+	{
+		"path": "../../responsive-portfolio-website-Alexa"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "responsive-portfolio-website-Alexa"
+  }
+}
